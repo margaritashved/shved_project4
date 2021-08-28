@@ -14,4 +14,4 @@
 - `number` — количество посадочных мест.
 
 ## Используемые библиотеки
-pandas, matplotlib.pyplot, io, requests, seaborn, requests, plotly.express, scipy.stats, pprint, math, numpy
+pandas, matplotlib.pyplot, requests, seaborn, requests, plotly.express, scipy.stats, pprint, math, numpy
